@@ -1,7 +1,7 @@
 Githubkopi av åpent brev til Kripos 
 (med kopi til Riksadvokaten)
 
-[https://gitlab.com/ungtblod/kripos](Også publiseret på Gitlab)
+[Også publiseret på Gitlab](https://gitlab.com/ungtblod/kripos)
 
 https://blcksec.github.io/bomb/
 
